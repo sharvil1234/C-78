@@ -1,0 +1,21 @@
+body
+{
+    background-color: aqua;
+}
+
+#button_next
+{
+    margin-top: 20px;
+    width: 30%;
+}
+
+#button_next:hover
+{
+    transform: scale(0.9);
+}
+
+#members
+{
+    margin-top: 100px;
+
+}
